@@ -463,3 +463,20 @@ document.getElementById('year').textContent = new Date().getFullYear();
 </body>
 </html>
 <img src="images/leather-floral.jpg" alt="Leather floral design">
+
+.brand-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #d6b36a;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.brand-logo img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
