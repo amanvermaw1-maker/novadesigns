@@ -462,3 +462,4 @@ document.getElementById('year').textContent = new Date().getFullYear();
 
 </body>
 </html>
+<img src="images/leather-floral.jpg" alt="Leather floral design">
